@@ -1,7 +1,8 @@
 # Namma-Yatri-website
-- Project For the Namma Yatri Open Mobility Challenge.
 
-- Team Members : 
+# Project For the Namma Yatri Open Mobility Challenge.
+
+- ** Team Members : 
 * Raj Motwani
 * Shivam Gupta
 * Harsh Agrawal
